@@ -2,6 +2,10 @@
 
 <br />
 
+### <img align="left" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />Discord: Nertzhul#3788
+
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
@@ -19,6 +23,6 @@
 
 ---
 
-![Nertzhul's github stats](https://github-readme-stats.vercel.app/api?username=nertzhuldev&count_private=true&show_icons=true)
+![Nertzhul's Github Stats](https://github-readme-stats.vercel.app/api?username=nertzhuldev&count_private=true&show_icons=true)
 
 [java]: https://github.com/topics/java

@@ -1,4 +1,4 @@
-### NertzhulDEV
+### <img align="left" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1831/1831934.svg" />NertzhulDEV
 
 <br />
 

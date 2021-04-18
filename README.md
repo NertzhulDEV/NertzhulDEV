@@ -9,4 +9,4 @@
 
 <p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" /> 
-<img alt="JavaScript" src="https://img.shields.io/badge/-Java-edb200?style=flat-square&logo=java&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />

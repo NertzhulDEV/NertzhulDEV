@@ -14,6 +14,8 @@
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql3&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite3&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img alt="Intellij" src="https://img.shields.io/badge/-IntellijIDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+<img alt="VsCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>

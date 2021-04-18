@@ -1,10 +1,6 @@
-### <img align="left" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1831/1831934.svg" />NertzhulDEV
-
-<br />
-
-### <img align="left" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />Discord: Nertzhul#3788
-
-<br />
+<h1 align="center">NertzhulDEV</h1>
+<p align="center">
+<p align="center"><samp>「 Java Developer (focused on minecraft-bukkit) 」</samp></p>
 
 ### Languages and Tools:
 

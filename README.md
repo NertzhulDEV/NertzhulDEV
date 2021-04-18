@@ -23,6 +23,7 @@
 
 ---
 
-![Nertzhul's Github Stats](https://github-readme-stats.vercel.app/api?username=nertzhuldev&count_private=true&show_icons=true)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nertzhuldev&show_icons=true&theme=tokyonight&include_all_commits=true">  
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nertzhuldev&theme=tokyonight&layout=compact&hide=css">
 
 [java]: https://github.com/topics/java

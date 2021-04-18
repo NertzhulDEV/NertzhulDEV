@@ -20,3 +20,6 @@
 <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" />
 <img alt="VsCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
+
+
+<p>Contato via Discord: <code>nertzhul#5590</code></p>

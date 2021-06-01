@@ -5,7 +5,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nertzhuldev&show_icons=true&theme=tokyonight&include_all_commits=true">  
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nertzhuldev&theme=tokyonight&layout=compact&hide=css">
 
-<p>Olá, meu nome é Rodrigo, tenho 23 anos, porém sou conhecido pelo nickname de <b>Nertzhul</b>. Atuo principalmente como desenvolvedor java de pluign para minecraft bukkit/spigot mas estou estudando mais a fundo sobre desenvolvimento de games em geral e páginas web.</p>
+<p>Olá, meu nome é Rodrigo, tenho 23 anos, porém sou conhecido pelo nickname de <b>Nertzhul</b>. Atuo principalmente como desenvolvedor java de plugins para minecraft bukkit/spigot porém estou estudando mais a fundo sobre desenvolvimento de games em geral e páginas web.</p>
 
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
